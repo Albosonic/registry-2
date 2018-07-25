@@ -11,9 +11,9 @@ var configuration = {
   storage: {
     adapter: gs,
     options: {
-      projectId: 'another-mock-reg',
-      bucket: 'staging.another-mock-reg.appspot.com',
-      path: '//staging.another-mock-reg.appspot.com/',
+      projectId: 'rl-mock-reg',
+      bucket: 'rl-mock-reg-bucket',
+      path: '//rl-mock-reg-bucket',
       componentsDir: 'components',
     }
   },
